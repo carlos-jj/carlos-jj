@@ -45,9 +45,9 @@
 
 
 [website]: #
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: #
+[instagram]: #
+[linkedin]: https://www.linkedin.com/in/carlosjj-87766121b
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
